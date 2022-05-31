@@ -1,0 +1,30 @@
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.AssemblyReference.cache
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.SuggestedBindingRedirects.cache
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.Form1.resources
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.Properties.Resources.resources
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.GenerateResource.cache
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.CoreCompileInputs.cache
+C:\DevC#Projekte\prjProduktSuche\bin\Debug\prjProduktSuche.exe.config
+C:\DevC#Projekte\prjProduktSuche\bin\Debug\prjProduktSuche.exe
+C:\DevC#Projekte\prjProduktSuche\bin\Debug\prjProduktSuche.pdb
+C:\DevC#Projekte\prjProduktSuche\bin\Debug\BouncyCastle.Crypto.dll
+C:\DevC#Projekte\prjProduktSuche\bin\Debug\itextsharp.dll
+C:\DevC#Projekte\prjProduktSuche\bin\Debug\itextsharp.xml
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.CopyComplete
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.exe
+C:\DevC#Projekte\prjProduktSuche\obj\Debug\prjProduktSuche.pdb
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\bin\Debug\prjProduktSuche.exe.config
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\bin\Debug\prjProduktSuche.exe
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\bin\Debug\prjProduktSuche.pdb
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\bin\Debug\itextsharp.dll
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\bin\Debug\itextsharp.xml
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.Form1.resources
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.Properties.Resources.resources
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.GenerateResource.cache
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.csproj.CopyComplete
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.exe
+C:\Users\Julian\Desktop\Projektmanagement 06.2022\prjProduktSuche\obj\Debug\prjProduktSuche.pdb
